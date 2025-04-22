@@ -4,10 +4,9 @@ export default function Exercicio1({ fah })
     return (
 
         <div>
-            <h3>chamda para o exericio 1</h3>
-
-            a conversão de 100°F para Celsius é {cels} 
-            a conversão de 70°F para Celsius é {cels} 
+            
+            <p>a conversão de {fah}°F para Celsius é {cels} </p> 
+            
         </div>
     )
 
