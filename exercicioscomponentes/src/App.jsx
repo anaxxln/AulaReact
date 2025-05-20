@@ -3,7 +3,7 @@ import Exercicio1 from "./componentes/Exercicio1"
 import Exercicio2 from "./Componentes/Exercicio2"
 import Exercicio3 from "./Componentes/Exercicio3"
 import Exercicio4 from "./Componentes/Exercicio4"
-import Exercicio5 from "./Componentes/Exercicio5"
+import Exercicio6 from "./Componentes/Exercicio6"
 
 export default function App()
 {
@@ -36,10 +36,9 @@ export default function App()
       <Exercicio4 tipo="triangulo" base={100} altura={5} />
 
       <hr />
-      <h1>Exercicio 5</h1>
-      <Exercicio5 quantidade="10" />
-      <Exercicio5 quantidade="20" />
-
+      <h1>Exercicio 6</h1>
+      <Exercicio6 quantidade={2} preco={5} />
+      
     </div>
   )
 }

@@ -1,4 +1,0 @@
-export default function Exercicio5({quantidade})
-{
-    
-}
