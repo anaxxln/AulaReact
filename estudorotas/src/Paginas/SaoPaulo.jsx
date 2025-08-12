@@ -11,7 +11,7 @@ export default function SaoPaulo()
             </p>
 
             <p>
-                <img src="" />
+                <img src="/SP.png" />
             </p>
 
             <p>

@@ -11,7 +11,7 @@ export default function RioJaneiro()
             </p>
 
             <p>
-                <img src="" />
+                <img src="/RJ.png" />
             </p>
 
             <p>
