@@ -10,7 +10,7 @@ export default function Parana()
             </p>
 
             <p>
-                <img src="" />
+                <img src="/PR.png" />
             </p>
 
             <p>

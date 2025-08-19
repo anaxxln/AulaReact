@@ -11,7 +11,7 @@ export default function SantaCatarina()
             </p>
 
             <p>
-                <img src="" />
+                <img src="/SC.jpg" />
             </p>
 
             <p>

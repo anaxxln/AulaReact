@@ -15,6 +15,24 @@ import Goias from "./Paginas/Goias";
 import MatoGrosso from "./Paginas/MatoGrosso";
 import MatoGrossoSul from "./Paginas/MatoGrossoSul";
 
+import Alagoas from "./Paginas/Alagoas";
+import Bahia from "./Paginas/Bahia";
+import Ceara from "./Paginas/Ceara";
+import Maranhao from "./Paginas/Maranhao";
+import Paraiba from "./Paginas/Paraiba";
+import Pernambuco from "./Paginas/Pernambuco";
+import Piaui from "./Paginas/Piaui";
+import RioGrandeNorte from "./Paginas/RioGrandeNorte";
+import Sergipe from "./Paginas/Sergipe";
+
+import Acre from "./Paginas/Acre";
+import Amapa from "./Paginas/Amapa";
+import Amazonas from "./Paginas/Amazonas";
+import Para from "./Paginas/Para";
+import Rondonia from "./Paginas/Rondonia";
+import Roraima from "./Paginas/Roraima";
+import Tocantins from "./Paginas/Tocantins";
+
 export default function App()
 {
     return (
@@ -44,6 +62,15 @@ export default function App()
                 <Route path="/pi" element={<Piaui/>} />
                 <Route path="/rn" element={<RioGrandeNorte/>} />
                 <Route path="/se" element={<Sergipe/>} />
+
+                
+                <Route path="/ac" element={<Acre />} />
+                <Route path="/ap" element={<Amapa/>} />
+                <Route path="/am" element={<Amazonas/>} />
+                <Route path="/pa" element={<Para/>} />
+                <Route path="/ro" element={<Rondonia/>} />
+                <Route path="/rr" element={<Roraima/>} />
+                <Route path="/to" element={<Tocantins/>} />
 
 
             </Routes>

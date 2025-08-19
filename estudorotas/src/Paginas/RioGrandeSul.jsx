@@ -12,7 +12,7 @@ export default function RioGrandeSul()
             </p>
 
             <p>
-                <img src="" />
+                <img src="/RS.png" />
             </p>
 
             <p>
