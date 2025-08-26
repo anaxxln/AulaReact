@@ -1,0 +1,26 @@
+body
+{
+    margin : 0;
+    padding: 0;
+}
+
+h1
+{
+    background-color: rgb(129, 74, 180);
+    color : white;
+
+    margin: 0;
+    padding: 30px;
+
+    text-align: center;
+}
+
+a
+{
+    color:rgb(28, 9, 74);
+}
+ 
+img
+{
+    width: 500px;
+}
